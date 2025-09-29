@@ -112,11 +112,7 @@ Business insights generation using SQL and visualization for decision making
 Real-world exposure to financial fraud detection and risk monitoring
 
 Project Team
-
-Aastha
-
-Aditya Bajantri
-
-Rajasri
-
-Aman Singh
+1.Aastha
+2.Aditya Bajantri
+3.Rajasri
+4.Aman Singh
