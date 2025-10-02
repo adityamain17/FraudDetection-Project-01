@@ -15,9 +15,9 @@ The objective is to detect unusual or fraudulent transactions using a hybrid app
 
 • Dataset: Provided in Excel/CSV format
 • Features:
- • Numeric: TransactionAmount, CustomerAge, TransactionDuration, LoginAttempts, AccountBalance
- • Categorical: Occupation (Doctor, Engineer, Retired, Student), Transaction Channels (ATM, Branch, Online, CreditCard, DebitCard)
- • Derived: Log-scaled transaction amount, transaction time (hour, day, month), days since previous transaction
+    • Numeric: TransactionAmount, CustomerAge, TransactionDuration, LoginAttempts, AccountBalance
+    • Categorical: Occupation (Doctor, Engineer, Retired, Student), Transaction Channels (ATM, Branch, Online, CreditCard, DebitCard)
+    • Derived: Log-scaled transaction amount, transaction time (hour, day, month), days since previous transaction
 • ER Diagram created for schema clarity & relationship mapping
 
 🛠️ Tools & Technologies
